@@ -1,4 +1,4 @@
-# Tomato detection using CCC
+# Tomato detection using CNN
 The tomato_detection_cnn.ipynb file is used to train a CNN model on the dataset in the tomato.zip file.
 
 # Dataset
